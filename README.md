@@ -1,4 +1,5 @@
-Exercícios de recursão adicional
+# Exercícios de recursão adicional
+
 Modele as recursões, e depois implemente cada um dos algorítmos modelados. Faça uma classe contendo os métodos implementados. Coloque a modelagem como comentário antes de cada método.
 
 Como trabalharemos: programando em pares no nosso encontro síncrono (Pair Programming) ou seja, uma máquina/código, dois desenvolvedores cooperando, alternando os papéis de piloto e co-piloto (a cada 10-15 minutos, por exemplo). Após o encontro, continuem desnvolvendo cooperativamente, utilizando o repositório no github para compartilhar o trabalho sendo desenvolvido.
